@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['ide_0',['IDE',['../e2studio.html',1,'e² Studio IDE'],['../mcuxpresso.html',1,'MCUXpresso IDE']]],
+  ['introduction_1',['Introduction',['../index.html',1,'']]]
+];
